@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal/homework/actorManagement/Content/BP_Barrel.uasset",
+				"D:/unreal/homework/actorManagement/Content/Blueprint_Effect_Fire.uasset",
+				"D:/unreal/homework/actorManagement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/EY/LPLKWZ1WX7A5IFRFIS49IC.uasset",
+				"D:/unreal/homework/actorManagement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/KY/HD3ST0FLF44UYDY96Z2FAE.uasset",
+				"D:/unreal/homework/actorManagement/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/2T/6DAN52FI42YCT4NMYC09MC.uasset"
+			]
+		}
+	]
+}
